@@ -1,0 +1,26 @@
+{
+  "name": "rap-mock",
+  "version": "1.0.0",
+  "description": "mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "mock rap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joinmouse/rap-mock.git"
+  },
+  "keywords": [
+    "mock",
+    "rap"
+  ],
+  "author": "joinmouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joinmouse/rap-mock/issues"
+  },
+  "homepage": "https://github.com/joinmouse/rap-mock#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
