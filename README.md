@@ -3,3 +3,4 @@
 
 # test
 `node test.js`
+`node mock.js`
